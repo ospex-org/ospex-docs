@@ -5,11 +5,13 @@ title: "Getting Started"
 
 # Getting Started
 
-This section will guide you through connecting your wallet to Ospex, approving the use of your tokens, and creating a speculation. Ensure you have **MATIC** and **USDC** tokens on the Polygon network for a smooth experience.
+This section will guide you through connecting your wallet to Ospex, approving the use of your tokens, and creating a position. Ensure you have **MATIC** and **USDC** tokens on the Polygon network for a smooth experience.
 
 For detailed instructions, watch the instructional video below. 
 
-<!-- [![Video Description](link-to-thumbnail-image.jpg)](link-to-tiktok-video) -->
+<a href="https://www.tiktok.com/@ospex.org" target="_blank">
+  <img src="/img/placeholder.webp" alt="Getting Started" width="200" />
+</a>
 
 For support or further assistance, join our [Telegram channel](https://t.me/ospex).
 

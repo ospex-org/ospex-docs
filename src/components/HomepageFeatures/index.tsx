@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'No Speculation Limit*',
+    title: 'No Limit*',
     Svg: require('@site/static/img/undraw_online_payments.svg').default,
     description: (
       <>

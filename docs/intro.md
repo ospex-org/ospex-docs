@@ -5,7 +5,7 @@ title: "Introduction"
 
 # What is ospex.org?
 
-**Ospex** is a open-source decentralized application (dapp) that allows users to speculate on the outcomes of sports contests. Unlike traditional platforms, Ospex is characterized by its **no fee / low fee** structure, **anonymity**, and **unrestricted access**. It's designed to offer a transparent and fair environment for sports speculation.
+**Ospex** is a open-source decentralized application (dApp) that allows users to speculate on the outcome of sports contests. Unlike traditional platforms, Ospex is characterized by its **no fee / low fee** structure, **anonymity**, and **unrestricted access**. It's designed to offer a transparent and fair environment for sports speculation.
 
 Ospex users can create contests and speculations based on real-life sports events and participate by creating positions on potential outcomes.
 
