@@ -58,10 +58,11 @@ const config: Config = {
     // Replace with your project's social card
     image: '/',
     navbar: {
-      title: 'ospex.org',
+      title: 'ospex',
       // logo: {
-      //   alt: '',
-      //   src: '',
+      // alt: '',
+      // src: '',
+      // href: 'https://ospex.org',
       // },
       items: [
         {
@@ -72,8 +73,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          to: 'https://ospex.org',
+          label: 'ospex.org',
           position: 'right',
         },
       ],
