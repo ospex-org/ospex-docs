@@ -11,15 +11,15 @@ In Ospex, users may create contests and engage in various types of speculations.
 
 Ospex allows for the creation of three primary types of speculations:
 
-- [**Spread**](#glossary) - A speculation on the point / run / goal difference between the winning and losing teams.
-- [**Moneyline**](#glossary) - A speculation on the winner of the contest.
-- [**Total**](#glossary) - A speculation on the total points / runs / goals scored in the contest.
+- [**Spread**](/docs/glossary/#spread) - A speculation on the point / run / goal difference between the winning and losing teams.
+- [**Moneyline**](/docs/glossary/#moneyline) - A speculation on the winner of the contest.
+- [**Total**](/docs/glossary/#total) - A speculation on the total points / runs / goals scored in the contest.
 
 ## Creating Contests and Speculations
 
 ### Step 1: Create a Contest
 
-To begin creating a contest, access the [**contest creation page**](https://ospex.org/c/create). You may use the search box to find a specific team and quickly create a contest.
+To begin creating a contest, access the [**Contest Creation**](https://ospex.org/c/create) page. You may use the search box to find a specific team and quickly create a contest.
 
 ### Step 2: Increase Gas
 

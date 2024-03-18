@@ -22,8 +22,8 @@ Refer to the image below to familiarize yourself with the primary focal points o
 
 ## After Wallet Connection
 
-- **Positions Button:** Post-wallet connection, you can toggle the "Positions" button to view your active positions, claim any available winnings, or return to the contests page. The top-right corner also displays your wallet address, current USDC balance, and approved USDC amount. Refer to our [**glossary**](#) for more details.
+- **Positions Button:** Post-wallet connection, you can toggle the "Positions" button to view your active positions, claim any available winnings, or return to the contests page. The top-right corner also displays your wallet address, current USDC balance, and approved USDC amount. Refer to our [**Glossary**](/docs/glossary) for more details.
 
-- **Profile Access:** Clicking on your wallet address or the associated wallet name, such as "ospex.crypto," will take you to your public profile. This page presents general information about your speculation and position history. Visit the [**advanced section**](#) to learn how to personalize your profile using a domain from [**Ethereum Name Service**](https://ens.domains/) or [**Unstoppable Domains**](https://unstoppabledomains.com/).
+- **Profile Access:** Clicking on your wallet address or the associated wallet name, such as "ospex.crypto," will take you to your public profile. This page presents general information about your speculation and position history. Visit the [**Advanced Features**](/docs/advanced-features) section to learn how to personalize your profile using a domain from [**Ethereum Name Service**](https://ens.domains/) or [**Unstoppable Domains**](https://unstoppabledomains.com/).
 
-- **Contest Scoring:** If a contest is yet to start or in progress, your position will indicate its status. Once concluded, this area becomes interactive, allowing you to score the contest on the [**contest scoring page**](https://ospex.org/c/score). Final odds will also be accessible here after the contest begins.
+- **Contest Scoring:** If a contest is yet to start or in progress, your position will indicate its status. Once concluded, this area becomes interactive, allowing you to score the contest on the [**Contest Scoring**](https://ospex.org/c/score) page. Final odds will also be accessible here after the contest begins.

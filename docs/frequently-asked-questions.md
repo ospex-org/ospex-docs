@@ -15,7 +15,7 @@ Ospex is a decentralized application (dApp) that allows users to create speculat
 
 ### How do I get started with Ospex?
 
-To get started, connect your wallet to the platform, and ensure you have MATIC for transaction fees and USDC for creating positions. Current available speculations are listed on the [**main page**](https://ospex.org). For detailed instructions, refer to our [**Getting Started**](https://docs.ospex.org/docs/getting-started) guide.
+To get started, connect your wallet to the platform, and ensure you have MATIC for transaction fees and USDC for creating positions. Current available speculations are listed on the [**main page**](https://ospex.org). For detailed instructions, refer to our [**Getting Started**](/docs/getting-started) guide.
 
 ### What types of speculations can I create?
 
@@ -35,7 +35,7 @@ Contest results are determined through data provided by trusted APIs. These resu
 
 ### What happens if API sources provide conflicting results?
 
-The Ospex platform requires confirmation from multiple APIs to ensure accuracy. If there's a discrepancy, the scoring process will not proceed until it is resolved. In the meantime, users may retry the scoring process, as results from the APIs may be delayed. For more information, see our [**Edge Cases**](https://docs.ospex.org/docs/edge-cases) page.
+The Ospex platform requires confirmation from multiple APIs to ensure accuracy. If there's a discrepancy, the scoring process will not proceed until it is resolved. In the meantime, users may retry the scoring process, as results from the APIs may be delayed. For more information, see our [**Edge Cases**](/docs/edge-cases) page.
 
 ### How are odds calculated?
 

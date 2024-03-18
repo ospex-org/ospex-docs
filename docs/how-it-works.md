@@ -13,7 +13,7 @@ When contests are created, the unique identifiers for the contest from three ind
 
 ### Handling Discrepancies
 
-What happens if the results from the sources do not match? [**See the "Edge Cases" section**](#edge-cases) for detailed information on how Ospex addresses discrepancies in contest results.
+What happens if the results from the sources do not match? See [**Edge Cases**](/docs/edge-cases) for detailed information on how Ospex addresses discrepancies in contest results.
 
 ## Why Chainlink?
 
@@ -25,4 +25,4 @@ Choosing the Chainlink DON allows Ospex to ensure that contest data is accurate,
 - Explore how to create and score contests.
 - Learn more about how contests and speculations are scored.
 
-For more detailed instructions and tips, check out our [**Getting Started**](#getting-started) guide.
+For more detailed instructions and tips, check out our [**Getting Started**](/docs/getting-started) guide.

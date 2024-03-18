@@ -13,9 +13,9 @@ For detailed instructions, watch the instructional video below.
   <img src="/img/placeholder.webp" alt="Getting Started" width="200" />
 </a>
 
-For support or further assistance, join our [Telegram channel](https://t.me/ospex).
+For support or further assistance, join our [**Telegram channel**](https://t.me/ospex).
 
 ## Recommended Wallets
 
-- **Desktop**: [Metamask](https://metamask.io/)
-- **Mobile**: [Coinbase Wallet](https://wallet.coinbase.com/)
+- **Desktop**: [**Metamask**](https://metamask.io/)
+- **Mobile**: [**Coinbase Wallet**](https://wallet.coinbase.com/)
