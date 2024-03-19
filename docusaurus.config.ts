@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ospex.org',
-  tagline: 'Open Speculation Exchange uses commission-free parimutuel pools to enable decentralized sports speculation.',
+  tagline: 'Decentralized Sports Speculation.',
   // favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

@@ -44,3 +44,7 @@ Odds on Ospex are determined dynamically through a commission-free parimutuel mo
 ### How do contributions work?
 
 Contributions to Ospex are sent to a wallet address defined within the smart contract. They serve to support and sustain the project. All contributions are transparent and trackable, as transactions are recorded on the blockchain, providing visibility into the support the project receives. While contributions are appreciated, they are entirely voluntary and help ensure the longevity and improvement of Ospex.
+
+### What is the best way to obtain crypto?
+
+While Ospex does not endorse any specific cryptocurrency exchanges or on-ramps, it's important to consider your preferred method for acquiring crypto (such as credit card, debit card, or bank transfer) and seek options that offer the lowest transaction fees. Please note that for use on Ospex, your cryptocurrency needs to be compatible with the Polygon network. Be aware that creating a new account for the purpose of converting fiat currency to cryptocurrency might involve a waiting period, which can last several days. A platform like [**Juno**](https://juno.finance/) may be worth exploring for its competitive fees and user-friendly interface, but we encourage doing your research to find the best fit for your needs.

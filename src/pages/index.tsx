@@ -33,8 +33,8 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       // title={`${siteConfig.title}`}
-      title={`Documentation`}
-      description="Description will go into a meta tag in <head />">
+      title={`Ospex Documentation`}
+      description="Ospex Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

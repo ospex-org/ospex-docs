@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         No need to create an account or provide personal information; only a
-        wallet is required.
+        crypto wallet is required.
       </>
     ),
   },
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_online_payments.svg').default,
     description: (
       <>
-        Speculate with no need to be concerned about being banned, limited, 
+        Speculate without concern for being banned, limited, 
         or having your account closed.<br /><br />
         *10 USDC limit in place until contracts are audited.
       </>

@@ -11,7 +11,7 @@ Ospex includes several advanced features that allow users to personalize their e
 
 Ospex supports the resolution of both [**Ethereum Name Service (ENS)**](https://ens.domains/) and [**Unstoppable Domain**](https://unstoppabledomains.com/) names to wallet addresses. This means that in addition to each wallet address having its own profile page, you can customize your profile's name and URL by linking an ENS or Unstoppable Domain to your wallet.
 
-Here are examples of how different addresses can resolve to the same profile, as they are all linked to the same wallet:
+Here are examples of how different addresses can resolve to the same profile, as they are all linked to the same wallet; note, this is not required, and in order to maintain anonymity, simply using your crypto wallet without an associated name is advised.
 
 - [**https://ospex.org/u/0xA8eb19F9B7c2b2611C1279423A0CB2aee3735320**](https://ospex.org/u/0xA8eb19F9B7c2b2611C1279423A0CB2aee3735320)
 - [**https://ospex.org/u/vincelaird.eth**](https://ospex.org/u/vincelaird.eth)
