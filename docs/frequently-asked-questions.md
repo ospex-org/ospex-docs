@@ -15,7 +15,7 @@ Ospex is a decentralized application (dApp) that allows users to create speculat
 
 ### How do I get started with Ospex?
 
-To get started, connect your wallet to the platform, and ensure you have MATIC for transaction fees and USDC for creating positions. Current available speculations are listed on the [**main page**](https://ospex.org). For detailed instructions, refer to our [**Getting Started**](/docs/getting-started) guide.
+To get started, connect your wallet to the platform, and ensure you have MATIC for transaction fees and USDC for creating positions on the [**Polygon blockchain**](https://polygon.technology/). Current available speculations are listed on the [**main page**](https://ospex.org). For detailed instructions, refer to our [**Getting Started**](/docs/getting-started) guide.
 
 ### What types of speculations can I create?
 
