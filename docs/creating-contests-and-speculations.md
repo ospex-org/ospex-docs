@@ -33,6 +33,6 @@ Once the contest is created, you can choose which type of speculation(s) you wan
 
 For a step-by-step walkthrough on creating contests and speculations, please view the video below:
 
-<a href="https://www.tiktok.com/@ospex.org" target="_blank">
-  <img src="/img/placeholder.webp" alt="Getting Started" width="200" />
+<a href="https://www.tiktok.com/@ospex.org/video/7357612829932801322" target="_blank">
+  <img src="/img/contest_creation.png" alt="Getting Started" />
 </a>

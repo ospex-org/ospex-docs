@@ -9,13 +9,12 @@ This section will guide you through connecting your wallet to Ospex, approving t
 
 For detailed instructions, watch the instructional video below. 
 
-<a href="https://www.tiktok.com/@ospex.org" target="_blank">
-  <img src="/img/placeholder.webp" alt="Getting Started" width="200" />
+<a href="https://www.tiktok.com/@ospex.org/video/7357612364386077995" target="_blank">
+  <img src="/img/intro.png" alt="Getting Started" />
 </a>
 
 For support or further assistance, join our [**Telegram channel**](https://t.me/ospex).
 
 ## Recommended Wallets
 
-- **Desktop**: [**Metamask**](https://metamask.io/)
-- **Mobile**: [**Coinbase Wallet**](https://wallet.coinbase.com/)
+- **Desktop and Mobile**: [**Metamask**](https://metamask.io/)
